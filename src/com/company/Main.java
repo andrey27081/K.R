@@ -15,10 +15,13 @@ import java.util.Random;
 public class Main extends JPanel implements ActionListener {
 
     public static JFrame jFrame;
+
+
+
     public static final int SCALE = 32;  // размер клетки
     public static final int WIDTH =  20; // ширина окна
     public static final int HEIGHT = 20; // Высота окна
-    public static int SPEED = 5; // скорость змейки
+    public static int SPEED = 6; // скорость змейки
 
     Image telo = new ImageIcon("Res\\Тело.jpg").getImage(); // Загрузка картинки для тела змейки
 

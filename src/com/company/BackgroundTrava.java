@@ -9,5 +9,4 @@ public class BackgroundTrava extends Background{
     public BackgroundTrava(){
         fonImage = new ImageIcon("Res\\Трава.jpg").getImage();
     }
-
 }

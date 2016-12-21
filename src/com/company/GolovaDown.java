@@ -7,7 +7,6 @@ import javax.swing.*;
  */
 public class GolovaDown extends Golova {
     public GolovaDown(){
-
         golovaImage = new ImageIcon("Res\\Down.png").getImage();
     }
 }
